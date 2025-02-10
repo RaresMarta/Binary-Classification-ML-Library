@@ -1,4 +1,3 @@
-// --- src/main/Main.java ---
 package main;
 
 import gui.MainGUI;
