@@ -7,8 +7,6 @@ This project is a simple **machine learning library** implemented in **Java**, f
 - **K-Nearest Neighbors (KNN)**
 - **Perceptron**
 
-The library allows users to train models on a dataset, specify the **train-test split**, and evaluate classification performance using **accuracy, precision, and recall**. It includes a **graphical user interface (GUI)** for easy interaction.
-
 ## Features
 - Implements **three ML algorithms**: Naïve Bayes, KNN, and Perceptron  
 - Supports **binary classification**  
